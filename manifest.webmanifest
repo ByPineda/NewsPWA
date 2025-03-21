@@ -1,0 +1,10 @@
+{
+  "name": "News App - Apps Moviles Primavera",
+  "short_name": "News App - BUAP",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "fullScreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
